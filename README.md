@@ -1,4 +1,6 @@
-- Go to Google Calendar > Settings > (in the sidebar under "Settings for my calendars" click the calendar you use for Philly DSA) > (copy-paste the "Public address in iCal format" link in the box on the first page of Open Web Calendar)
+- Go to Google Calendar > Settings.
+- In the sidebar under "Settings for my calendars" click the calendar you use for your chapter.
+- Copy-paste the "Public address in iCal format" link in the box on the first page of [Open Web Calendar](https://open-web-calendar.hosted.quelltext.eu/).
 - Update the calendar title in 3/18 Title.
 - Select one of the am/pm conventions in 6/18 - Clock Convention.
 - Select Google Maps in 9/18 - Map Links and Location.
