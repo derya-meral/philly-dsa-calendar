@@ -31,6 +31,14 @@
 .dhx_cal_agenda_event_line_marker {
     display: none;
 }
+.dhx_cal_agenda_event_line {
+    height: fit-content;
+}
+.dhx_cal_agenda_day_events {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
 .dhx_cal_event {
     background-color: #F04C53;
     color: white;
@@ -88,6 +96,8 @@
     border-radius: 5px;
     border: 1px solid black;
     background-color: white;
+    width: 60%;
+    padding: 25px;
 }
 .dhx_cal_qi_tcontent::before {
     display: none;
