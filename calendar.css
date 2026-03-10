@@ -126,3 +126,6 @@ color: #EC1F27 !important;
 .dhx_menu_icon.icon_subscribe {
 background-color: #EC1F27 !important;
 }
+.hamburger-menu {
+display:none;
+}
